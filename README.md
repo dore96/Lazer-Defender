@@ -3,7 +3,7 @@
 Space theme lazer game , developed in unity platform , programmed in c#. 
 can be played online at : https://sharemygame.com/@DorEdelman/lazer-defender
 
-## How to install a package from a Git URL (import GitHub projects into your Unity project)
+## How to import this repo unity game from the Git URL: 
 The Package Manager can load a package from a Git repository on a remote server.
 
 For more information about using Git dependencies
