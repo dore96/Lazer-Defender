@@ -9,7 +9,7 @@ can be played online at : https://sharemygame.com/@DorEdelman/lazer-defender
 Space theme lazer game , developed in unity platform , programmed in c#. 
 can be played online at : https://sharemygame.com/@DorEdelman/lazer-defender
 
-## How to install a package from a Git URL
+## How to install a package from a Git URL (import GitHub projects into your Unity project)
 The Package Manager can load a package from a Git repository on a remote server.
 
 For more information about using Git dependencies
@@ -22,8 +22,12 @@ To load a package from a Git URL:
 2.The options for adding packages appear.
 ![upm-ui-gitur](https://docs.unity3d.com/uploads/Main/upm-ui-giturl.png)
 
+
+
 3.Select Add package from git URL from the add menu. A text box and an Add button appear.
 ![upm-ui-giturl-add](https://docs.unity3d.com/uploads/Main/upm-ui-giturl-add.png)
+
+
 
 4.Enter a valid Git URL in the text box and click Add. For more information about how to construct a valid Git URL, see Git URLs and extended syntax. Unity supports several Git protocols and some custom or extended syntax.
 
