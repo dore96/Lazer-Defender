@@ -11,7 +11,7 @@ For more information about using Git dependencies
 .
 
 To load a package from a Git URL:
-<br />1. Open the add menu in the Package Manager’s toolbar.
+<br />1. Open the add menu in the Package Manager’s toolbar.<br />
 2. The options for adding packages appear.
 <br />![upm-ui-gitur](https://docs.unity3d.com/uploads/Main/upm-ui-giturl.png)  <br />
 3. Select Add package from git URL from the add menu. A text box and an Add button appear.
