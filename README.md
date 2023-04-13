@@ -3,6 +3,10 @@
 Space theme lazer game , developed in unity platform , programmed in c#. 
 can be played online at : https://sharemygame.com/@DorEdelman/lazer-defender
 
+![lazer01](https://github.com/dore96/Lazer-Defender/blob/main/pngs/lazer01.png)
+![lazer02](https://github.com/dore96/Lazer-Defender/blob/main/pngs/lazer02.png)
+![lazer03](https://github.com/dore96/Lazer-Defender/blob/main/pngs/lazer03.png)
+
 ## Getting Started (How to import this repo unity game from the Git URL) :
 
 These instructions will get you a copy of the project up and running on your local
